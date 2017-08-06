@@ -1,6 +1,6 @@
 # NgFirebaseGallery
 
-A simple gallery application implementing an Angular front end Firebase back end.
+<li>A simple gallery application implementing an Angular front end Firebase back end.</li>
 
 This is a work in progress and will continue to be updated.
 
