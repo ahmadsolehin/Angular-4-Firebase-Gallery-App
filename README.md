@@ -8,7 +8,7 @@
 
 ## step 
 <li> Need to login </li>
-
+<li> then , you can upload a multiple image </li>
 
 ## screenshot
 
