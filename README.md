@@ -1,4 +1,4 @@
-# NgFirebaseGallery
+## NgFirebaseGallery
 
 <li>A simple gallery application implementing an Angular front end Firebase back end.</li>
 
