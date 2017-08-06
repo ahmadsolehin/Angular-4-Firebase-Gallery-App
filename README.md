@@ -6,6 +6,8 @@
 
 <li>This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.</li>
 
+## step 
+
 ## screenshot
 
 ![nn](https://user-images.githubusercontent.com/12325386/29000670-d041d4f2-7aa4-11e7-84ea-10a74b443147.JPG)
